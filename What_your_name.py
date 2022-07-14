@@ -1,3 +1,2 @@
-print ("Whats is your name?")
-input (name)
-print ("Hello, ", name)
+name = input("Whats is your name?")
+print ("Hello, " , name)
